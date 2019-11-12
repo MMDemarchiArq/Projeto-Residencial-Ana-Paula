@@ -24,16 +24,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5691274295837765,
-        "pitch": 0.30225796806744754,
-        "fov": 1.2691192001910299
+        "yaw": -1.6056170400874805,
+        "pitch": 0.2220691305232858,
+        "fov": 1.148034836772384
       },
       "linkHotspots": [
         {
-          "yaw": -1.3034265247814112,
-          "pitch": 0.41636391210819923,
+          "yaw": -1.2379232100804387,
+          "pitch": 0.3246962109155298,
           "rotation": 0,
-          "target": "5-entrada"
+          "target": "7-garagem"
         }
       ],
       "infoHotspots": []
@@ -62,136 +62,172 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6571691150761225,
-        "pitch": 0.25368406025902246,
+        "yaw": -1.93732426195783,
+        "pitch": 0.36033453408790805,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -0.6529502563074665,
-          "pitch": 0.41786159208249885,
-          "rotation": 7.853981633974483,
-          "target": "3-corredor"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.771024853173511,
-          "pitch": -0.1994054177846074,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Revestimento:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Pastilha Azul</font></font>"
-        }
-      ]
-    },
-    {
-      "id": "2-banheiro-suite",
-      "name": "Banheiro Suite",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.562230684872242,
-        "pitch": 0.3961446697742268,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -0.5762322776454383,
-          "pitch": 0.5487929082392142,
-          "rotation": 1.5707963267948966,
-          "target": "13-sute-master"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.602024249428446,
-          "pitch": -0.09921956897131423,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Revestimento:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Pastilha Azul</font></font>"
-        }
-      ]
-    },
-    {
-      "id": "3-corredor",
-      "name": "Corredor",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.5464118843881831,
-        "pitch": 0.27166048183030966,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.4290415481580556,
-          "pitch": 0.8332209085150808,
-          "rotation": 3.141592653589793,
-          "target": "11-sala-de-estar"
-        },
-        {
-          "yaw": -2.0994185470409903,
-          "pitch": 0.2810114475225305,
-          "rotation": 4.71238898038469,
-          "target": "1-banheiro"
-        },
-        {
-          "yaw": -0.968155336051117,
-          "pitch": 0.2887110170506624,
-          "rotation": 1.5707963267948966,
-          "target": "10-quarto-de-hspedes"
-        },
-        {
-          "yaw": -1.2135426787842487,
-          "pitch": 0.19165183596492952,
-          "rotation": 1.5707963267948966,
-          "target": "9-quarto"
-        },
-        {
-          "yaw": -1.4271348559719907,
-          "pitch": 0.09277837184804127,
-          "rotation": 0,
-          "target": "13-sute-master"
+          "yaw": -2.1165732451026056,
+          "pitch": 0.9274182107308349,
+          "rotation": 2.356194490192345,
+          "target": "4-corredor-vista-2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-cozinha",
+      "id": "2-corredor-lateral",
+      "name": "Corredor Lateral",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.6240529644774995,
+        "pitch": 0.37077774983612954,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.1943117234798137,
+          "pitch": 0.34972786424780544,
+          "rotation": 4.71238898038469,
+          "target": "8-lavanderia"
+        },
+        {
+          "yaw": -1.571356079932002,
+          "pitch": 0.8945647515112256,
+          "rotation": 3.141592653589793,
+          "target": "6-espao-gourmet"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-corredor-vista-1",
+      "name": "Corredor Vista 1",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -2.1454436442081146,
+        "pitch": 0.3583395388774946,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.1722716022777657,
+          "pitch": 0.45145783505877013,
+          "rotation": 0,
+          "target": "4-corredor-vista-2"
+        },
+        {
+          "yaw": -2.17449253075052,
+          "pitch": 0.9206557033861742,
+          "rotation": 3.141592653589793,
+          "target": "13-sala-de-jantar"
+        },
+        {
+          "yaw": -1.2513122509216252,
+          "pitch": 0.32179356167701556,
+          "rotation": 1.5707963267948966,
+          "target": "11-quarto-de-hspedes"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-corredor-vista-2",
+      "name": "Corredor Vista 2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.3609067812443136,
+        "pitch": 0.24188508969589506,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.39270337237746844,
+          "pitch": 0.19489441070998836,
+          "rotation": 0,
+          "target": "1-banheiro"
+        },
+        {
+          "yaw": -0.7502068241302737,
+          "pitch": 0.7001648727352467,
+          "rotation": 1.5707963267948966,
+          "target": "3-corredor-vista-1"
+        },
+        {
+          "yaw": -1.3125241537737296,
+          "pitch": 0.1142755678100631,
+          "rotation": 0,
+          "target": "10-quarto-do-filho"
+        },
+        {
+          "yaw": -1.9095541544909693,
+          "pitch": 0.11236229551646915,
+          "rotation": 4.71238898038469,
+          "target": "9-quarto-do-casal"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-cozinha",
       "name": "Cozinha",
       "levels": [
         {
@@ -214,89 +250,31 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.401053986716306,
-        "pitch": 0.26573713702106616,
+        "yaw": -1.560324351282926,
+        "pitch": 0.24187918874228487,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.229697209279177,
-          "pitch": 0.21051060777339003,
-          "rotation": 1.5707963267948966,
+          "yaw": -1.3491236469685255,
+          "pitch": 0.7806729735578308,
+          "rotation": 2.356194490192345,
           "target": "6-espao-gourmet"
         },
         {
-          "yaw": -2.378878581886779,
-          "pitch": 0.21745594647858368,
+          "yaw": -2.5917395051579586,
+          "pitch": 0.38904323834146837,
           "rotation": 4.71238898038469,
-          "target": "8-lavanderia"
+          "target": "13-sala-de-jantar"
         },
         {
-          "yaw": -1.7321854431497687,
-          "pitch": 0.8023459994140865,
-          "rotation": 3.141592653589793,
-          "target": "12-sala-de-jantar"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -2.1742987532201496,
-          "pitch": 0.03641851961535991,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Revestimento:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Azulejo Português Colorido</font></font>"
-        }
-      ]
-    },
-    {
-      "id": "5-entrada",
-      "name": "Entrada",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.5392361761753364,
-        "pitch": 0.14851019226100703,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -1.6088574091989223,
-          "pitch": 0.7172304670394531,
-          "rotation": 3.141592653589793,
-          "target": "0-fachada"
-        },
-        {
-          "yaw": -1.267610152639243,
-          "pitch": 0.34470498796465066,
+          "yaw": -1.8597590444703247,
+          "pitch": 0.07691573687856668,
           "rotation": 0,
-          "target": "6-espao-gourmet"
+          "target": "8-lavanderia"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -1.6423562453988723,
-          "pitch": -0.16853327140348995,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Revestimento:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Petra Acetinado</font></font>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "6-espao-gourmet",
@@ -322,42 +300,41 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6001178582283941,
-        "pitch": 0.30757477086983087,
+        "yaw": -1.2037109378078412,
+        "pitch": 0.31423052259741624,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -0.6733505386220919,
-          "pitch": 0.29656687702435214,
-          "rotation": 1.5707963267948966,
-          "target": "5-entrada"
+          "yaw": -1.469124454473823,
+          "pitch": 0.8690872195823083,
+          "rotation": 2.356194490192345,
+          "target": "7-garagem"
         },
         {
-          "yaw": -2.283184262778059,
-          "pitch": 0.3317649903498694,
-          "rotation": 4.71238898038469,
-          "target": "4-cozinha"
+          "yaw": -2.294188993858091,
+          "pitch": 0.3932226193889008,
+          "rotation": 0,
+          "target": "12-sala-de-estar"
         },
         {
-          "yaw": -2.667754782317889,
-          "pitch": 0.48690035390387365,
-          "rotation": 4.71238898038469,
-          "target": "12-sala-de-jantar"
+          "yaw": -2.0435798193671175,
+          "pitch": 0.2580445853228355,
+          "rotation": 0,
+          "target": "5-cozinha"
+        },
+        {
+          "yaw": -1.5818744548265276,
+          "pitch": 0.18978343677141396,
+          "rotation": 0,
+          "target": "2-corredor-lateral"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -2.0828712329555685,
-          "pitch": 0.013151464051507133,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Revestimento:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Azulejo Português Colorido</font></font>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
-      "id": "7-jardim",
-      "name": "Jardim",
+      "id": "7-garagem",
+      "name": "Garagem",
       "levels": [
         {
           "tileSize": 256,
@@ -379,16 +356,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5573701004819682,
-        "pitch": 0.3209005744219571,
+        "yaw": -1.4974924982111375,
+        "pitch": 0.22694837462240613,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.5387363690817608,
-          "pitch": 0.8980702179953663,
+          "yaw": -1.2798372559971956,
+          "pitch": 0.7849342217128754,
           "rotation": 3.141592653589793,
-          "target": "13-sute-master"
+          "target": "0-fachada"
+        },
+        {
+          "yaw": -1.556383751511465,
+          "pitch": 0.37761003598493836,
+          "rotation": 0,
+          "target": "6-espao-gourmet"
         }
       ],
       "infoHotspots": []
@@ -417,30 +400,29 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4662571627371257,
-        "pitch": 0.31552172032530024,
+        "yaw": -1.6629497113001932,
+        "pitch": 0.23590686309433906,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.4807664773237494,
-          "pitch": 0.3016364072214266,
-          "rotation": 0,
-          "target": "4-cozinha"
+          "yaw": -2.3072555836742765,
+          "pitch": 0.2523482951719842,
+          "rotation": 4.71238898038469,
+          "target": "5-cozinha"
+        },
+        {
+          "yaw": -1.7392113701287606,
+          "pitch": 0.8237752703181922,
+          "rotation": 3.141592653589793,
+          "target": "2-corredor-lateral"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -1.1808107231716676,
-          "pitch": 0.037188816531037006,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Revestimento:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Pastilha Verde</font></font>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
-      "id": "9-quarto",
-      "name": "Quarto",
+      "id": "9-quarto-do-casal",
+      "name": "Quarto do Casal",
       "levels": [
         {
           "tileSize": 256,
@@ -462,29 +444,73 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6775280632869194,
-        "pitch": 0.22486255762192542,
+        "yaw": -2.0265551455626554,
+        "pitch": 0.1673750165243213,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.6719013412097183,
-          "pitch": 0.1695672713369838,
+          "yaw": -2.923890825589284,
+          "pitch": 0.03983967742197869,
+          "rotation": 0,
+          "target": "14-sute"
+        },
+        {
+          "yaw": -2.9765460705357363,
+          "pitch": 0.4941363548063311,
+          "rotation": 10.210176124166829,
+          "target": "4-corredor-vista-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "10-quarto-do-filho",
+      "name": "Quarto do Filho",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.648951975205014,
+        "pitch": 0.1732000693897433,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.597562753497158,
+          "pitch": 0.05471176541650813,
           "rotation": 4.71238898038469,
-          "target": "3-corredor"
+          "target": "4-corredor-vista-2"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.1084450073699799,
-          "pitch": 0.06775742670074791,
+          "yaw": -1.0847329517851776,
+          "pitch": 0.038641728509450246,
           "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Papel de Parede:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Tijolo à Vista</font></font>"
+          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Tijolinho</font></font>"
         }
       ]
     },
     {
-      "id": "10-quarto-de-hspedes",
+      "id": "11-quarto-de-hspedes",
       "name": "Quarto de Hóspedes",
       "levels": [
         {
@@ -507,29 +533,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5970243896492065,
-        "pitch": 0.20750812528210005,
+        "yaw": -1.8074629733653254,
+        "pitch": 0.26318781474445885,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.9554327280447588,
-          "pitch": 0.7298382002346351,
+          "yaw": -1.8074626987416558,
+          "pitch": 0.8306499692133311,
           "rotation": 3.141592653589793,
-          "target": "3-corredor"
+          "target": "3-corredor-vista-1"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -1.5429021939179997,
-          "pitch": -0.27676289128214293,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Papel de Parede:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Cimento Queimado</font></font>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
-      "id": "11-sala-de-estar",
+      "id": "12-sala-de-estar",
       "name": "Sala de Estar",
       "levels": [
         {
@@ -552,35 +571,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4326249195946268,
-        "pitch": 0.34641770130927796,
+        "yaw": -1.6257957509828245,
+        "pitch": 0.46613127686990197,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.2266811962801825,
-          "pitch": 0.27844939847360983,
-          "rotation": 0,
-          "target": "3-corredor"
+          "yaw": -1.8303761129317575,
+          "pitch": 1.0066821021080639,
+          "rotation": 3.141592653589793,
+          "target": "6-espao-gourmet"
         },
         {
-          "yaw": -1.0399838280051092,
-          "pitch": 0.8677080245627149,
-          "rotation": 3.141592653589793,
-          "target": "12-sala-de-jantar"
+          "yaw": -1.377636449332961,
+          "pitch": 0.4639562544504354,
+          "rotation": 0,
+          "target": "13-sala-de-jantar"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -2.1591655553304108,
-          "pitch": -0.1356721122800444,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Papel de Parede:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Tijolo à Vista Branco</font></font>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
-      "id": "12-sala-de-jantar",
+      "id": "13-sala-de-jantar",
       "name": "Sala de Jantar",
       "levels": [
         {
@@ -603,35 +615,35 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.290254671094747,
-        "pitch": 0.3201769484156092,
+        "yaw": -1.5440891503298673,
+        "pitch": 0.30665832598917575,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.1445284072546684,
-          "pitch": 0.25870748165728585,
-          "rotation": 0,
-          "target": "6-espao-gourmet"
+          "yaw": -2.3632485365766485,
+          "pitch": 0.5995571967731514,
+          "rotation": 4.71238898038469,
+          "target": "12-sala-de-estar"
         },
         {
-          "yaw": -1.9825798740062428,
-          "pitch": 0.30591442258850776,
-          "rotation": 5.497787143782138,
-          "target": "4-cozinha"
+          "yaw": -0.5635850903339517,
+          "pitch": 0.24823488560506135,
+          "rotation": 1.5707963267948966,
+          "target": "5-cozinha"
         },
         {
-          "yaw": -2.1742616758807873,
-          "pitch": 0.6397895067160171,
-          "rotation": 3.9269908169872414,
-          "target": "11-sala-de-estar"
+          "yaw": -1.3212954444456653,
+          "pitch": 0.07346264959113036,
+          "rotation": 1.5707963267948966,
+          "target": "3-corredor-vista-1"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "13-sute-master",
-      "name": "Suíte Master",
+      "id": "14-sute",
+      "name": "Suíte",
       "levels": [
         {
           "tileSize": 256,
@@ -653,41 +665,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5324812163922878,
-        "pitch": 0.13436544650680915,
+        "yaw": -1.5750335344548425,
+        "pitch": 0.34931201739237494,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.5038720065894307,
-          "pitch": 0.13395894041852863,
-          "rotation": 4.71238898038469,
-          "target": "2-banheiro-suite"
-        },
-        {
-          "yaw": -2.350389934172652,
-          "pitch": 0.5241255174358539,
-          "rotation": 10.210176124166829,
-          "target": "3-corredor"
-        },
-        {
-          "yaw": -0.9316125108067581,
-          "pitch": 0.6136148146439613,
+          "yaw": -1.4808353168369077,
+          "pitch": 0.8895808804552932,
           "rotation": 8.63937979737193,
-          "target": "7-jardim"
+          "target": "9-quarto-do-casal"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -1.6702388866853504,
-          "pitch": -0.2746904560327046,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Papel de Parede:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Folhas</font></font>"
-        }
-      ]
+      "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Projeto Residencial Ana Paula",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
