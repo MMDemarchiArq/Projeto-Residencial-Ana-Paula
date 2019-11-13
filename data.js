@@ -24,14 +24,14 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6056170400874805,
-        "pitch": 0.2220691305232858,
-        "fov": 1.148034836772384
+        "yaw": -1.5666075365901087,
+        "pitch": 0.19932606976480294,
+        "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.2379232100804387,
-          "pitch": 0.3246962109155298,
+          "yaw": -1.2964116340180816,
+          "pitch": 0.27587383682797295,
           "rotation": 0,
           "target": "7-garagem"
         }
@@ -62,15 +62,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.93732426195783,
-        "pitch": 0.36033453408790805,
+        "yaw": -1.732589044848698,
+        "pitch": 0.31866492494541987,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.1165732451026056,
-          "pitch": 0.9274182107308349,
-          "rotation": 2.356194490192345,
+          "yaw": -0.7265475770955554,
+          "pitch": 0.49957463858412154,
+          "rotation": 1.5707963267948966,
           "target": "4-corredor-vista-2"
         }
       ],
@@ -100,20 +100,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6240529644774995,
-        "pitch": 0.37077774983612954,
+        "yaw": -1.8304862364985883,
+        "pitch": 0.20009441435292352,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.1943117234798137,
-          "pitch": 0.34972786424780544,
+          "yaw": -2.0848278277837764,
+          "pitch": 0.29444047541626617,
           "rotation": 4.71238898038469,
           "target": "8-lavanderia"
         },
         {
-          "yaw": -1.571356079932002,
-          "pitch": 0.8945647515112256,
+          "yaw": -1.4889159846943993,
+          "pitch": 0.723023437952472,
           "rotation": 3.141592653589793,
           "target": "6-espao-gourmet"
         }
@@ -144,28 +144,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -2.1454436442081146,
-        "pitch": 0.3583395388774946,
+        "yaw": -1.7341655555409847,
+        "pitch": 0.15379139107292872,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.1722716022777657,
-          "pitch": 0.45145783505877013,
-          "rotation": 0,
-          "target": "4-corredor-vista-2"
+          "yaw": -1.0876035067832035,
+          "pitch": 0.2518068150100081,
+          "rotation": 7.853981633974483,
+          "target": "9-quarto-de-hspedes"
         },
         {
-          "yaw": -2.17449253075052,
-          "pitch": 0.9206557033861742,
+          "yaw": -2.1913548093359267,
+          "pitch": 0.6509240012581561,
           "rotation": 3.141592653589793,
           "target": "13-sala-de-jantar"
         },
         {
-          "yaw": -1.2513122509216252,
-          "pitch": 0.32179356167701556,
-          "rotation": 1.5707963267948966,
-          "target": "11-quarto-de-hspedes"
+          "yaw": -2.186507233424379,
+          "pitch": 0.4125263947157922,
+          "rotation": 0,
+          "target": "4-corredor-vista-2"
         }
       ],
       "infoHotspots": []
@@ -194,34 +194,34 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.3609067812443136,
-        "pitch": 0.24188508969589506,
+        "yaw": -1.2484063420765974,
+        "pitch": 0.1164458573720566,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -0.39270337237746844,
-          "pitch": 0.19489441070998836,
-          "rotation": 0,
-          "target": "1-banheiro"
-        },
-        {
-          "yaw": -0.7502068241302737,
-          "pitch": 0.7001648727352467,
+          "yaw": -0.2795760544254513,
+          "pitch": 0.3428024166444441,
           "rotation": 1.5707963267948966,
           "target": "3-corredor-vista-1"
         },
         {
-          "yaw": -1.3125241537737296,
-          "pitch": 0.1142755678100631,
+          "yaw": -1.3625383490377132,
+          "pitch": 0.08128869537677019,
           "rotation": 0,
-          "target": "10-quarto-do-filho"
+          "target": "11-quarto-do-filho"
         },
         {
-          "yaw": -1.9095541544909693,
-          "pitch": 0.11236229551646915,
+          "yaw": -1.9200502532405377,
+          "pitch": 0.11860829624194125,
           "rotation": 4.71238898038469,
-          "target": "9-quarto-do-casal"
+          "target": "10-quarto-do-casal"
+        },
+        {
+          "yaw": -0.41162443732454435,
+          "pitch": 0.03862320991781765,
+          "rotation": 0,
+          "target": "1-banheiro"
         }
       ],
       "infoHotspots": []
@@ -250,28 +250,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.560324351282926,
-        "pitch": 0.24187918874228487,
+        "yaw": -1.499386301652967,
+        "pitch": 0.19410058355862958,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.3491236469685255,
-          "pitch": 0.7806729735578308,
-          "rotation": 2.356194490192345,
+          "yaw": -1.8965601390518714,
+          "pitch": 0.09303858099478468,
+          "rotation": 0,
+          "target": "8-lavanderia"
+        },
+        {
+          "yaw": -0.5424107897928856,
+          "pitch": 0.28950246091562093,
+          "rotation": 1.5707963267948966,
           "target": "6-espao-gourmet"
         },
         {
-          "yaw": -2.5917395051579586,
-          "pitch": 0.38904323834146837,
+          "yaw": -2.5457647044457676,
+          "pitch": 0.35493574371545833,
           "rotation": 4.71238898038469,
           "target": "13-sala-de-jantar"
-        },
-        {
-          "yaw": -1.8597590444703247,
-          "pitch": 0.07691573687856668,
-          "rotation": 0,
-          "target": "8-lavanderia"
         }
       ],
       "infoHotspots": []
@@ -300,32 +300,32 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.2037109378078412,
-        "pitch": 0.31423052259741624,
+        "yaw": -1.563616467040088,
+        "pitch": 0.3472487352840865,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.469124454473823,
-          "pitch": 0.8690872195823083,
-          "rotation": 2.356194490192345,
+          "yaw": -2.013516805871534,
+          "pitch": 0.8456685469745775,
+          "rotation": 3.141592653589793,
           "target": "7-garagem"
         },
         {
-          "yaw": -2.294188993858091,
-          "pitch": 0.3932226193889008,
+          "yaw": -2.482624589926111,
+          "pitch": 0.33580576565463893,
           "rotation": 0,
           "target": "12-sala-de-estar"
         },
         {
-          "yaw": -2.0435798193671175,
-          "pitch": 0.2580445853228355,
+          "yaw": -2.05247689371455,
+          "pitch": 0.21302433957396616,
           "rotation": 0,
           "target": "5-cozinha"
         },
         {
-          "yaw": -1.5818744548265276,
-          "pitch": 0.18978343677141396,
+          "yaw": -1.6087592007086489,
+          "pitch": 0.1822970530686714,
           "rotation": 0,
           "target": "2-corredor-lateral"
         }
@@ -356,20 +356,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.4974924982111375,
-        "pitch": 0.22694837462240613,
+        "yaw": -1.7183162496302966,
+        "pitch": 0.39652150631563643,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.2798372559971956,
-          "pitch": 0.7849342217128754,
+          "yaw": -1.6337813704218043,
+          "pitch": 0.927020778559335,
           "rotation": 3.141592653589793,
           "target": "0-fachada"
         },
         {
-          "yaw": -1.556383751511465,
-          "pitch": 0.37761003598493836,
+          "yaw": -1.6776189987729246,
+          "pitch": 0.3616201773965404,
           "rotation": 0,
           "target": "6-espao-gourmet"
         }
@@ -400,117 +400,28 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6629497113001932,
-        "pitch": 0.23590686309433906,
+        "yaw": -1.5472657326957968,
+        "pitch": 0.25281016648544075,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.3072555836742765,
-          "pitch": 0.2523482951719842,
+          "yaw": -2.3523175629384454,
+          "pitch": 0.2906609062043142,
           "rotation": 4.71238898038469,
           "target": "5-cozinha"
         },
         {
-          "yaw": -1.7392113701287606,
-          "pitch": 0.8237752703181922,
-          "rotation": 3.141592653589793,
+          "yaw": -0.7922456532684237,
+          "pitch": 0.6290850905191672,
+          "rotation": 14.137166941154074,
           "target": "2-corredor-lateral"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "9-quarto-do-casal",
-      "name": "Quarto do Casal",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -2.0265551455626554,
-        "pitch": 0.1673750165243213,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.923890825589284,
-          "pitch": 0.03983967742197869,
-          "rotation": 0,
-          "target": "14-sute"
-        },
-        {
-          "yaw": -2.9765460705357363,
-          "pitch": 0.4941363548063311,
-          "rotation": 10.210176124166829,
-          "target": "4-corredor-vista-2"
-        }
-      ],
-      "infoHotspots": []
-    },
-    {
-      "id": "10-quarto-do-filho",
-      "name": "Quarto do Filho",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -1.648951975205014,
-        "pitch": 0.1732000693897433,
-        "fov": 1.2691192001910299
-      },
-      "linkHotspots": [
-        {
-          "yaw": -2.597562753497158,
-          "pitch": 0.05471176541650813,
-          "rotation": 4.71238898038469,
-          "target": "4-corredor-vista-2"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.0847329517851776,
-          "pitch": 0.038641728509450246,
-          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Papel de Parede:</font></font>",
-          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Tijolinho</font></font>"
-        }
-      ]
-    },
-    {
-      "id": "11-quarto-de-hspedes",
+      "id": "9-quarto-de-hspedes",
       "name": "Quarto de Hóspedes",
       "levels": [
         {
@@ -533,19 +444,108 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.8074629733653254,
-        "pitch": 0.26318781474445885,
+        "yaw": -1.8529629818464795,
+        "pitch": 0.17638130037172317,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.8074626987416558,
-          "pitch": 0.8306499692133311,
-          "rotation": 3.141592653589793,
+          "yaw": -1.80546197580124,
+          "pitch": 0.7358578780562048,
+          "rotation": 9.42477796076938,
           "target": "3-corredor-vista-1"
         }
       ],
       "infoHotspots": []
+    },
+    {
+      "id": "10-quarto-do-casal",
+      "name": "Quarto do Casal",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -2.1801502930125007,
+        "pitch": 0.12042197671983246,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.930718892334424,
+          "pitch": -0.039832032472643775,
+          "rotation": 0,
+          "target": "14-sute"
+        },
+        {
+          "yaw": 3.0677950051959764,
+          "pitch": 0.32289382023423663,
+          "rotation": 4.71238898038469,
+          "target": "4-corredor-vista-2"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "11-quarto-do-filho",
+      "name": "Quarto do Filho",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.5819276489131617,
+        "pitch": 0.25083767721421957,
+        "fov": 1.2691192001910299
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.548310975480195,
+          "pitch": 0.06059625444197181,
+          "rotation": 4.71238898038469,
+          "target": "4-corredor-vista-2"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.075392250616396,
+          "pitch": 0.04888507509641826,
+          "title": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Papel de Parede:</font></font>",
+          "text": "<font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Tijolinho</font></font>"
+        }
+      ]
     },
     {
       "id": "12-sala-de-estar",
@@ -571,20 +571,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.6257957509828245,
-        "pitch": 0.46613127686990197,
+        "yaw": -1.4625449058905833,
+        "pitch": 0.2858756958498745,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.8303761129317575,
-          "pitch": 1.0066821021080639,
+          "yaw": -1.6101327168954462,
+          "pitch": 0.874595092731008,
           "rotation": 3.141592653589793,
           "target": "6-espao-gourmet"
         },
         {
-          "yaw": -1.377636449332961,
-          "pitch": 0.4639562544504354,
+          "yaw": -1.6070313814183397,
+          "pitch": 0.4732231081112488,
           "rotation": 0,
           "target": "13-sala-de-jantar"
         }
@@ -615,27 +615,27 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5440891503298673,
-        "pitch": 0.30665832598917575,
+        "yaw": -1.1589304887984238,
+        "pitch": 0.1444989941520518,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -2.3632485365766485,
-          "pitch": 0.5995571967731514,
-          "rotation": 4.71238898038469,
+          "yaw": -0.9348559370684306,
+          "pitch": 0.704354381919087,
+          "rotation": 3.141592653589793,
           "target": "12-sala-de-estar"
         },
         {
-          "yaw": -0.5635850903339517,
-          "pitch": 0.24823488560506135,
+          "yaw": -0.2681330713187453,
+          "pitch": 0.20725596583456252,
           "rotation": 1.5707963267948966,
           "target": "5-cozinha"
         },
         {
-          "yaw": -1.3212954444456653,
-          "pitch": 0.07346264959113036,
-          "rotation": 1.5707963267948966,
+          "yaw": -1.2690525753556798,
+          "pitch": 0.054344297789588936,
+          "rotation": 0,
           "target": "3-corredor-vista-1"
         }
       ],
@@ -665,22 +665,22 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.5750335344548425,
-        "pitch": 0.34931201739237494,
+        "yaw": -1.8162265531406803,
+        "pitch": 0.24541570472305452,
         "fov": 1.2691192001910299
       },
       "linkHotspots": [
         {
-          "yaw": -1.4808353168369077,
-          "pitch": 0.8895808804552932,
-          "rotation": 8.63937979737193,
-          "target": "9-quarto-do-casal"
+          "yaw": -1.4509345119709884,
+          "pitch": 0.7787633900041939,
+          "rotation": 2.356194490192345,
+          "target": "10-quarto-do-casal"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Projeto Residencial Ana Paula",
+  "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
